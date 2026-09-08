@@ -1,0 +1,23 @@
+Account,Account Type,Prior Period Balance,Current Period Balance
+Cash - Operating,Bank,842150.00,916230.00
+Accounts Receivable,Accounts Receivable,318400.00,341200.00
+Prepaid Expenses,Other Current Asset,64200.00,58900.00
+Prepaid Insurance,Other Current Asset,22000.00,18333.00
+Fixed Assets - Equipment,Fixed Asset,145000.00,145000.00
+Accumulated Depreciation,Fixed Asset,-38500.00,-42583.00
+Accounts Payable,Accounts Payable,196300.00,241800.00
+Accrued Payroll,Other Current Liability,88400.00,91200.00
+Accrued Bonus/Incentive,Other Current Liability,45000.00,45000.00
+Deferred Revenue,Other Current Liability,12000.00,12000.00
+Common Stock,Equity,10000.00,10000.00
+Additional Paid-In Capital,Equity,4200000.00,4200000.00
+Retained Earnings,Equity,-1180450.00,-1298622.00
+Revenue - Client Services,Income,612000.00,684500.00
+Cost of Care Delivery,Cost of Goods Sold,298000.00,331200.00
+Payroll Expense,Expense,215400.00,222100.00
+Software & Subscriptions,Expense,18200.00,41600.00
+Professional Fees,Expense,12500.00,13100.00
+Travel & Entertainment,Expense,8400.00,8900.00
+Office & Admin,Expense,6200.00,6500.00
+Bank Fees,Expense,1100.00,1150.00
+Depreciation Expense,Expense,4083.00,4083.00

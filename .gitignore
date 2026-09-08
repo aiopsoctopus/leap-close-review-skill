@@ -1,0 +1,9 @@
+# Internal prep files — not for external sharing
+skill-design-doc.md
+automation-shortlist.md
+.DS_Store
+
+# Cloned server repo with local sandbox credentials — never commit
+quickbooks-online-mcp-server/
+*.env
+.env

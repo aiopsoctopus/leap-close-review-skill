@@ -1,0 +1,13 @@
+Date,Account,Description,Memo,Amount,Type
+2026-07-31,Accrued Bonus/Incentive,Q2 sales incentive accrual,Q2 bonus pool per comp plan,45000.00,Journal Entry
+2026-08-15,Software & Subscriptions,Annual platform license renewal,12-month term for care coordination platform,23400.00,Bill
+2026-08-22,Software & Subscriptions,New analytics tool - monthly,,1250.00,Bill
+2026-08-05,Accounts Payable,Vendor payment - office supplies,Office Depot invoice #4471,850.00,Bill Payment
+2026-08-28,Cost of Care Delivery,Infusion supplies - August,Monthly restock per Care Guide team,29800.00,Bill
+2026-08-19,Office & Admin,,,4200.00,Expense
+2026-07-01,Prepaid Insurance,Annual D&O policy - 12mo prepaid,Policy period 7/1/26-6/30/27,22000.00,Bill
+2026-08-31,Prepaid Insurance,Monthly amortization,1/12 of annual D&O policy,-1833.00,Journal Entry
+2026-08-12,Professional Fees,Legal review - vendor contract,,6500.00,Bill
+2026-08-30,Accrued Payroll,August payroll accrual - last week,Standard month-end accrual,91200.00,Journal Entry
+2026-07-31,Accrued Payroll,July payroll accrual - reversal,Standard reversing entry,-88400.00,Journal Entry
+2026-07-31,Accrued Payroll,July payroll accrual,Standard month-end accrual,88400.00,Journal Entry
