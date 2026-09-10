@@ -12,7 +12,7 @@ Data source: Mock data for this exercise (production: QuickBooks Online, live vi
    unreversed. Recommend confirming whether this should reverse or reflects an ongoing liability.
 2. Undocumented transaction — Office & Admin, $4,200 on 8/19/26 — no description or memo.
    Recommend confirming classification and business purpose before close.
-3. Aged receivable — Koch Inc (Employer Plan), $14,750 outstanding 109 days. Recommend
+3. Aged receivable — United Airlines (Employer Plan), $14,750 outstanding 109 days. Recommend
    confirming whether this is a collection issue, a TPA processing delay, or a data entry error.
 
 🟡 REVIEW RECOMMENDED — plausible explanation, confirm before closing
