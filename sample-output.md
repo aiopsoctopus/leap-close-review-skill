@@ -1,8 +1,3 @@
-# Sample Output — Month-End Close Review Skill
-
-*Run against `mock-data/` for demo purposes. This is what the skill produces.*
-
-```
 CLOSE REVIEW — August 2026
 Data source: Mock data for this exercise (production: QuickBooks Online, live via MCP connector)
 
@@ -19,15 +14,18 @@ Data source: Mock data for this exercise (production: QuickBooks Online, live vi
 1. Software & Subscriptions — moved from $18,200 to $41,600 (+128.6%). Explained by a $23,400
    annual platform license renewal booked 8/15. Worth confirming: should a 12-month license be
    recorded as a prepaid asset and amortized monthly, rather than expensed in full this period?
-2. Accounts Payable — moved from $196,300 to $241,800 (+23.2%). Several new vendor bills this
-   period plausibly explain the increase. Recommend confirming completeness — no obvious
-   duplicate or missing entry, but worth a quick tie-out.
+2. Accounts Payable — moved from $196,300 to $241,800 (+23.2%, +$45,500). No bill in the GL
+   detail accounts for an increase of this size — the only AP-coded entry this period is an
+   $850 payment, which reduces AP rather than growing it. Recommend confirming what's driving
+   the increase (unrecorded or late-entered bills, a vendor catch-up, or a coding issue) before
+   treating it as routine.
+3. Prepaid Insurance — moved from $22,000 to $18,333 (-16.7%, -$3,667). Clearly explained by a
+   clean $1,833 monthly amortization of the annual D&O policy (7/1/26–6/30/27 term) — textbook,
+   no action needed, flagged only because it technically clears the variance threshold.
 
 ✅ NO ISSUES FOUND
 Accrued Payroll — booked and reversed correctly this period (no flag; included to show the
-check is precise, not indiscriminate). 16 other accounts reviewed, 12 GL transactions scanned,
+check is precise, not indiscriminate). 15 other accounts reviewed, 12 GL transactions scanned,
 5 AR items checked — no other issues found.
 
 Nothing above has been changed, approved, or resolved automatically. Every item needs a human decision.
-```
-
