@@ -31,9 +31,3 @@ check is precise, not indiscriminate). 16 other accounts reviewed, 12 GL transac
 Nothing above has been changed, approved, or resolved automatically. Every item needs a human decision.
 ```
 
-## Demo talking points for this specific output
-
-- **Lead with the license/prepaid judgment call (🟡 #1).** This is the strongest single item — it's not a mechanical threshold catch, it's a real accounting judgment surfaced by the skill: should a 12-month license be capitalized and amortized rather than expensed all at once? That's exactly the "judgment, not just scanning" positioning.
-- **Explicitly call out the "no issues" note on Accrued Payroll.** It proves the skill doesn't flag everything to look busy — it correctly stayed quiet on a properly-reversed accrual. Worth saying out loud, not letting it pass silently.
-- **The missing reversal (🔴 #1) and aged AR (🔴 #3)** are the cleanest, most classic controller catches — good to show first as "here's the bread and butter," then pivot to the license judgment call as "here's where it gets interesting."
-- **The undocumented $4,200 transaction (🔴 #2)** is a good example of the "thin documentation" check — quick to explain, easy to visualize a real controller wanting this before signing off on a close.
